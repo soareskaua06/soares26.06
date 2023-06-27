@@ -1,1 +1,2 @@
-estamos quase chegando ao fim da atividade do git bash. Espero entender todos os comandos.
+estamos quase chegando ao fim da atividade do git bash. Espero entender todos os comandos. oiii
+
